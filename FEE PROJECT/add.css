@@ -1,0 +1,161 @@
+*{
+    box-sizing: border-box;
+}
+.one
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color:black;
+    float: left;
+}.two
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color:black;
+    float: left;
+}
+.four
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color:white;
+    float: left;
+    background-color: black;
+}
+.five
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color:black;
+    float: left;
+}
+.six
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color:black;
+    float: left;
+}
+.seven
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color: black;
+    float: left;
+}
+.eight
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+.nine
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color :white;
+    float: left;
+}
+.ten
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color: rg white;
+    float: left;
+}
+.eleven
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+.twelve
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color: white;
+    float: left;
+}
+.threenteen
+{
+    border: solid black 1px;
+    width: 16.6666%;
+    height: 200px;
+    background-color :white;
+    float: left;
+}
+.one>img
+{
+    width:178px;
+    height: 189px;
+}
+.two>img
+{
+    width: 178px;
+    height: 189px;
+}
+.three>img
+{
+    width: 178px;
+    height: 189px;
+}
+.four>img
+{
+    width: 178px;
+    height: 189px;
+}
+.five>img
+{
+    width: 178px;
+    height: 189px;
+}
+.six>img
+{
+    width: 178px;
+    height: 189px;
+}
+.seven>img
+{
+    width: 178px;
+    height: 189px;
+}
+.eight>img
+{
+    width: 178px;
+    height: 189px;
+}
+footer
+{
+    clear: both;
+    background-color: black;
+
+}
+footer>h3
+{
+    color: orangered;
+}
+header
+{
+    background-color: black;
+    color: blue;
+}
+body
+{
+    background-color: black;
+}
+h1{
+    color: chartreuse;
+}

@@ -1,0 +1,91 @@
+.top
+{
+    float: left;
+    list-style: none;
+    float: right;
+}
+#bars
+{
+  margin-right: 7px;  
+  
+}
+#gmail
+{
+    margin-right: 7px;
+    
+}
+#images
+{
+    margin-right:7px;
+}
+#sign
+{
+    margin-right: 7px;
+    
+    
+}
+.google
+{
+    margin-top: 150px;
+    margin-left: 350px;
+    width: 300px;
+}
+#search
+{
+    margin-left: 350px;
+    width: 300px;
+    margin-top: 25px;
+    border-radius: 10px;
+}
+.b1
+{
+    margin-left: 380px;
+    margin-right: 10px;
+    margin-top: 1px;
+    background-color: black;
+    color: white;
+}
+.b2
+{
+    background-color: black;
+    color: white;
+}
+.row1
+{
+    list-style-type: none;
+}
+.link
+{
+    float: right;
+    margin-right: 20px;
+    background-color: rgb(0, 0, 0);
+    text-decoration: none;
+    float: left;
+    color:white;
+}
+.footer
+{
+    background-color: rgb(15, 15, 15);
+}
+.row2
+{
+    list-style: none;
+    background-color: rgb(0, 0, 0);
+    height: 25px;
+}
+.elements2
+{
+    color:rgb(255, 255, 255);
+    float: left;
+    background-color: rgb(0, 0, 0);
+    margin-right: 12px;
+    text-decoration: none;
+
+}
+html { 
+    background: url("LAST.jpg") no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
